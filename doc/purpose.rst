@@ -3,8 +3,7 @@
 Purpose
 =======
 
-Write me ...
-
+Just testing doc sync with readthedocs
 
 Zipf's law
 ----------
